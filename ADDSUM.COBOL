@@ -15,4 +15,4 @@
            ACCEPT NUM2
            ADD NUM1 TO NUM2 GIVING ADDITION
            DISPLAY "The sum is: " ADDITION
-       STOP RUN.
+           STOP RUN.
